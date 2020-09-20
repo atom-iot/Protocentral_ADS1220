@@ -43,17 +43,4 @@ We also provide the Arduino libraries for interfacing this chip with your Arduin
 
   ** The example sketch is configured for internal Vref=2.048, provide the differential voltage across AN0 and AN1.
 
-# License Information
-
-This product is open source! Both, our hardware and software are open source and licensed under the following licenses:
-
-## Hardware
-
-All hardware is released under [Creative Commons Share-alike 4.0 International](http://creativecommons.org/licenses/by-sa/4.0/).**
-![CC-BY-SA-4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-
-## Software
-
-All software is released under the MIT License(http://opensource.org/licenses/MIT).**
-
-Please check [*LICENSE.md*](LICENSE.md) for detailed license descriptions.
+https://www.chipdip.ru/product/bb-ads1220
